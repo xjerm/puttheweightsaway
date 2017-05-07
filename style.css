@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Evogria";
+    src: url("fonts/Evogria.otf");
+}
+
+body {
+    background-color: #fcfcfc;
+}
+
+.topGreeter {
+    font-family: "Evogria";
+    font-size: 36px;
+    width: 100%;
+    text-align: center;
+    align-content: center;
+    
+}
